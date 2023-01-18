@@ -1,0 +1,25 @@
+mariadb:
+-- base:   98 (UNKNOWN: 0, LOW: 77, MEDIUM: 10, HIGH: 10, CRITICAL: 1)
+-- update: 98 (UNKNOWN: 0, LOW: 77, MEDIUM: 10, HIGH: 10, CRITICAL: 1)
+-- comments: none of the vulnerabilities have yet been fixed except this: opt/bitnami/common/bin/gosu (gobinary)
+
+pma:
+-- base:   619 (UNKNOWN: 7, LOW: 310, MEDIUM: 132, HIGH: 139, CRITICAL: 31)
+-- update: 407 (UNKNOWN: 5, LOW: 296, MEDIUM: 54, HIGH: 49, CRITICAL: 3)
+-- comments: none of the vulnerabilities have yet been fixed except this: var/www/html/composer.lock (composer)
+
+wp:
+-- base:   584 (UNKNOWN: 5, LOW: 359, MEDIUM: 131, HIGH: 82, CRITICAL: 7)
+-- update: 584 (UNKNOWN: 5, LOW: 359, MEDIUM: 131, HIGH: 82, CRITICAL: 7)
+-- comments: 
+
+haproxy:
+-- base:   0 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 0)
+-- update: 0 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 0)
+-- comments: 
+
+nginx:
+-- base:   0 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 0)
+-- update: 0 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 0)
+-- comments: 
+
